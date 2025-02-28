@@ -1,6 +1,6 @@
 # exercise_API_data_ingest
 
-**-The purpose of this project is to practice pulling data from a third party API to have its data ingested into BigQuery. **
+**-The purpose of this project is to practice pulling data from a third party API to have its data ingested into BigQuery.**
 
 -The third party API site used is https://www.api-ninjas.com/.
 -An account needs to be created to utilizing an API key to pull from a HTTP link.  Free accounts limits the type of data information available and usage.
