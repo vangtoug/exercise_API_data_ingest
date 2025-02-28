@@ -13,7 +13,11 @@
 <br />-No transformation and or visualization in Power Bi.
 
 **API Ninja Exercises API**
-<br/>
+![api_ninja_exercies_api](images/api_ninja_exercises_api.png)
+
+![api-ninjas.com_api_exercises](images/api-ninjas.com_api_exercises.png)
+
+
 
 
 
