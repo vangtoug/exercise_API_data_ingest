@@ -15,7 +15,7 @@
 **API Ninja Exercises API**
 ![api_ninja_exercies_api](images/api_ninja_exercises_api.png)
 
-![api-ninjas.com_api_exercises](images/api-ninjas.com_api_exercises.png)
+![www.api-ninjas.com_api_exercises](images/www.api-ninjas.com_api_exercises.png)
 
 
 
