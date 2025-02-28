@@ -8,6 +8,8 @@
 -For the purpose of this project, an Exercises API was used (https://www.api-ninjas.com/api/exercises).  This API limited the results to 5 records (although in this project, 10 records were possible).
 
 **Details of this project:**
+
 -The focus is do a third party API data ingestion to BigQuery using Apache-Airflow.
 -This project is not an ELT or an ETL, but rather, an EL; extract the data and load the data.
 -No transformation and or visualization in Power Bi.
+
